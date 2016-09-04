@@ -1,0 +1,6 @@
+language:
+- ruby
+install:
+- gem install danger
+script:
+- bundle exec danger
