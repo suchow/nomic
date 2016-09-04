@@ -1,0 +1,7 @@
+# Nomic
+
+
+
+# Setup guide
+
+
